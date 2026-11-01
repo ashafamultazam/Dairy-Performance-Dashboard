@@ -6,7 +6,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 ![Dataset](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?logo=kaggle&logoColor=white)
 ![Rows](https://img.shields.io/badge/Data-4.325%20baris-blue)
-![Periode](https://img.shields.io/badge/Periode-2019--2022-orange)
+![Periode](https://img.shields.io/badge/Periode-2023-orange)
 ![Region](https://img.shields.io/badge/Wilayah-India-138808)
 
 </div>
@@ -204,7 +204,7 @@ Tanpa Power BI, lihat hasilnya di `Dairy Performance Dashboard.pdf`.
 
 ## 👤 Penulis
 
-**Asha Fa Multazam** — [GitHub](https://github.com/ashafamultazam)
+**Ashafa Multazam** — [GitHub](https://github.com/ashafamultazam)
 
 ## 🙏 Ucapan Terima Kasih
 
